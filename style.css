@@ -1,0 +1,55 @@
+body{
+  width: 300px;
+  background-color;
+  margin: 0 auto;
+}
+
+header{
+  background-color: #F43F44;
+  width: 409px;
+  height: 70px;
+  color:white;
+}
+
+.usuario{
+  float:right;
+  background-color:#E61C1C;
+  height: 100%;
+  width: 68px;
+  font-size: 40px;
+  text-align:center;
+}
+.menu{
+  font-size: 32px;
+  padding:15px;
+}
+
+.trash{
+  font-size: 32px;
+}
+
+.usuario i{
+  padding: 10px;
+}
+
+.main_body{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.icon{
+  text-align:center;
+  background-color: #CC3438;
+  width: 64px;
+  height: 46px;
+  font-size: 27px;
+  padding-top: 15px;
+}
+
+.box{
+ padding-bottom: 50px;
+}
+.text{
+  font-family: "Roboto";
+  padding-left:20px;
+}
